@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678945314136",
+    "project_id": "route-pay-app-958b8",
+    "storage_bucket": "route-pay-app-958b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678945314136:android:831c0f8521f1c88fe1c12d",
+        "android_client_info": {
+          "package_name": "com.example.routepayapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOEILBS7s_-OAePfY825EFDLX7j6qH184"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
